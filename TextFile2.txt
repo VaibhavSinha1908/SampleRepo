@@ -1,0 +1,3 @@
+This is a file2.
+
+Some more text that's different from File 1.
