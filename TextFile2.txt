@@ -3,4 +3,10 @@ This is a file2.
 Some more text that's different from File 1.
 Some changes made by Alex here.
 Some changes made by Bob here.
+<<<<<<< Updated upstream
 Super Important Fix going into the production.
+=======
+
+
+I am making some critical code changes while other's work on their stuff --Bob.
+>>>>>>> Stashed changes
