@@ -1,3 +1,4 @@
+This is my change in the code file -- Bob.
 Hello world!!
 This is a first file commit.
 This is my critical change in the code file -- Alex.
