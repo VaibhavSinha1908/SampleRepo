@@ -2,3 +2,4 @@ This is a file2.
 
 Some more text that's different from File 1.
 Some changes made by Alex here.
+Some changes made by Bob here.
